@@ -1,0 +1,6 @@
+#!/bin/bash
+
+outputDir="/data/dm634/AstrometryRuns/run1"
+METHOD="Random"
+
+GenerateStars $outputDir $METHOD
